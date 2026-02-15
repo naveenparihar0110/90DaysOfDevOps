@@ -1,0 +1,25 @@
+===== Log Analysis Report =====
+Date of Analysis: 2026-02-14
+Log File: sample_log.log
+Total Lines Processed: 40
+Total ERROR/Failed Count: 7
+
+----- Top 5 Error Messages -----
+      2 Out of memory
+      2 Failed to connect
+      1 Segmentation fault
+      1 Invalid input
+      1 Disk full
+
+----- Critical Events -----
+LINE 2:2026-02-14 22:35:40 [CRITICAL]  - 5268
+LINE 3:2026-02-14 22:35:40 [CRITICAL]  - 25947
+LINE 8:2026-02-14 22:35:40 [CRITICAL]  - 25390
+LINE 10:2026-02-14 22:35:40 [CRITICAL]  - 16788
+LINE 16:2026-02-14 22:35:40 [CRITICAL]  - 21357
+LINE 17:2026-02-14 22:35:40 [CRITICAL]  - 26730
+LINE 22:2026-02-14 22:35:40 [CRITICAL]  - 16413
+LINE 25:2026-02-14 22:35:40 [CRITICAL]  - 4031
+LINE 32:2026-02-14 22:35:40 [CRITICAL]  - 1293
+LINE 33:2026-02-14 22:35:40 [CRITICAL]  - 31599
+LINE 39:2026-02-14 22:35:40 [CRITICAL]  - 11449
